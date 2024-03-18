@@ -1,2 +1,4 @@
 # AI-Project
-Artificial Intelligence University Project
+
+## Task
+Implementation of a simple spam mail detection model
